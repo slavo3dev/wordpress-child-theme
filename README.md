@@ -3,4 +3,4 @@
 
 ### React Page Builder
 
-Visit: [codepen](https://codepen.io/slavo3dev)
+Examples: [slavo3dev codepen](https://codepen.io/slavo3dev)
