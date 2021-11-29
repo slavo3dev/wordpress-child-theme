@@ -1,4 +1,4 @@
-# Wordpress child theme
+# Wordpress Child Theme
 
 ### Divi Theme 
 
