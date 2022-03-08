@@ -1,6 +1,6 @@
 # Wordpress Child Theme
 
-### Elegant Theme
+### Elegant
 
 Examples: [slavo3dev codepen](https://codepen.io/slavo3dev)
 Examples: [foonomad](https://foonomad.com) nextjs
